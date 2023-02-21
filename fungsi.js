@@ -3,4 +3,5 @@ const add = (a , b) => a + b ;
 console.log(add(1,2));
 
 
-console.log("tes tes");
+const perkalian =(a,b) => a*b;
+console.log(perkalian(2,2));
