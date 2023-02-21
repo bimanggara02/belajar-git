@@ -15,3 +15,5 @@ console.log(pembagian(2,2));
 
 tess;
 tessl;
+
+console.log(add(2,3));
