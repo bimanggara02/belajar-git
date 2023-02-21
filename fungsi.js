@@ -13,7 +13,8 @@ console.log(perkalian(2,2));
 const pembagian =(a,b) => a/b;
 console.log(pembagian(2,2));
 
-tess;
-tessl;
 
 console.log(add(2,3));
+
+const mathSin = (number) => Math.sin(number);
+console.log(mathSin(20));
